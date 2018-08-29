@@ -5,6 +5,6 @@ You can use it on Chrome by just draging the file in extensions screen or use th
 
 You can send me suggestions or fixes as pull requests, if you do any I will put your name on the thanks list.
 
-Thanks to those who helped me to fix and maintain the style:
+Thanks to those who helped me fix and maintain the style:
 
 PendingChaos
