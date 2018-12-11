@@ -78,11 +78,12 @@ div.RelatedUsers.module
     margin: 0 !important;
   }
 /*Largura do perfil*/
-  .dashboard-left
-  {
+   .dashboard-left 
+   {
     width: 100% !important;
     height: 100% !important;
-  }
+    border-bottom: solid transparent 8px;
+   }
 /*Fix para sugestões após seguir alguém*/
   .ProfileClusterFollow
   {
