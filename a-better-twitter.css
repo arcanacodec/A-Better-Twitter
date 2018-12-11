@@ -122,5 +122,10 @@ div.RelatedUsers.module
   div.home-tweet-box.tweet-box.component.tweet-user
   {
     border-radius: 4px !important;
+    
+    .DashboardProfileCard-content
+    {
+    margin-bottom: 5px;
+    }
   }
 }
