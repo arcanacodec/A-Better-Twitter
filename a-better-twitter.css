@@ -1,7 +1,7 @@
 @-moz-document domain("twitter.com")
 {
 /*Centralizar as fotos.*/
-  .AdaptiveMedia-video,
+.AdaptiveMedia-video,
 .AdaptiveMedia-singlePhoto,
 .AdaptiveMedia-doublePhoto,
 .AdaptiveMedia-triplePhoto,
@@ -37,6 +37,7 @@ li[data-suggestion-json*="ActivityTweet"],
 li.promoted-trend,
 li.promoted-account,
 div.promoted-tweet,
+div.promoted-tweet-heading,
 div.flex-module.trends-container,
 div.flexmodule.trends,
 div.module.trends,
