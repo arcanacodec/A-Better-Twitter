@@ -1,5 +1,5 @@
 @-moz-document domain("twitter.com")
-{
+  {
 /*Centralizar as fotos.*/
 .AdaptiveMedia-video,
 .AdaptiveMedia-singlePhoto,
@@ -58,7 +58,7 @@ div.RelatedUsers.module
 /*Correções do card de perfil*/
 .DashboardProfileCard
   {
-    margin-bottom: -10px !important;
+    margin-bottom: -8px !important;
     border-radius: 4px !important;
   }
 .ProfileCardStats
@@ -78,11 +78,11 @@ div.RelatedUsers.module
   }
 /*Largura do perfil*/
  .dashboard-left 
-   {
+  {
     width: 100% !important;
     height: 100% !important;
     border-bottom: solid transparent 8px;
-   }
+  }
 /*Fix para sugestões após seguir alguém*/
 .ProfileClusterFollow
   {
@@ -93,7 +93,6 @@ div.AdaptiveSearchPage-moduleHeader
   {
     padding: 8px !important;
   }
-
 .AdaptiveSearchTimeline-separationModule
   {
     margin-bottom: 10px !important;
