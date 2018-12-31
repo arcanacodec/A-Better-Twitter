@@ -1,5 +1,5 @@
 @-moz-document domain("twitter.com")
-  {
+{
 /*Centralizar as fotos.*/
 .AdaptiveMedia-video,
 .AdaptiveMedia-singlePhoto,
@@ -77,7 +77,7 @@ div.RelatedUsers.module
     margin: 0 !important;
   }
 /*Largura do perfil*/
- .dashboard-left 
+ .dashboard-left
   {
     width: 100% !important;
     height: 100% !important;
@@ -119,6 +119,5 @@ div.home-tweet-box.tweet-box.component.tweet-user
   {
     border-radius: 4px !important;
     margin-bottom: 5px;
-    }
   }
 }
