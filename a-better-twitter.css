@@ -1,5 +1,5 @@
 @-moz-document domain("twitter.com")
-  {
+{
 /*Centralizar as fotos.*/
 .AdaptiveMedia-video,
 .AdaptiveMedia-singlePhoto,
@@ -38,6 +38,9 @@ li.promoted-trend,
 li.promoted-account,
 div.promoted-tweet,
 div.promoted-tweet-heading,
+div.DashUserDropdown li>a[data-nav="all_moments"],
+div.DashUserDropdown li>a[data-nav="promote-mode"],
+div.DashUserDropdown li>a[data-nav="ads"],
 div.flex-module.trends-container,
 div.flexmodule.trends,
 div.module.trends,
@@ -77,7 +80,7 @@ div.RelatedUsers.module
     margin: 0 !important;
   }
 /*Largura do perfil*/
- .dashboard-left 
+ .dashboard-left
   {
     width: 100% !important;
     height: 100% !important;
@@ -119,6 +122,5 @@ div.home-tweet-box.tweet-box.component.tweet-user
   {
     border-radius: 4px !important;
     margin-bottom: 5px;
-    }
   }
 }
