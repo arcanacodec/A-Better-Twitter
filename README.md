@@ -7,3 +7,4 @@ You can use it on Chrome by just draging the file in extensions screen or use th
 
 * Trigstur
 * PendingChaos
+* skaulana
