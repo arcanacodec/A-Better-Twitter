@@ -9,6 +9,8 @@ You can use on your browser by installing Stylus, a extension that change the lo
 
 [Opera](https://addons.opera.com/extensions/details/stylus/)
 
+Go to [install](https://userstyles.org/styles/155039/a-better-twitter)
+
 You can send me suggestions or fixes as pull requests, if you do any, I will put your name on the thanks list.
 
 ### Thanks to those who helped me fix and maintain the style:
