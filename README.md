@@ -1,6 +1,10 @@
 # A-Better-Twitter
 ## Just a CSS style for Twitter that removes some bullshit from the website.
-        
+
+<p align="center">
+    <img src="Screenshot.png" height="250">
+</p>
+
 You can use on your browser by installing Stylus, a extension that change the look and feel of web pages without collecting data about you:
 
 [Google Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
