@@ -7,6 +7,8 @@
 
 You can use on your browser by installing Stylus, a extension that change the look and feel of web pages without collecting data about you:
 
+Go to the old Twitter design using [GoodTwitter by Zusor](https://github.com/ZusorCode/GoodTwitterChrome) also avaliable to others browsers.
+
 [Google Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
 
 [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
