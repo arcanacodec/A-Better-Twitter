@@ -2,7 +2,7 @@
 ## Just a CSS style for Twitter that removes some bullshit from the website.
 
 <p align="center">
-    <img src="Screenshot.png" height="250">
+    <img src="Screenshot.png" height="450">
 </p>
 
 You can use on your browser by installing Stylus, a extension that change the look and feel of web pages without collecting data about you:
