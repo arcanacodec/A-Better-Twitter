@@ -1,3 +1,5 @@
+#                                   Obsolete now, Twitter removed the old website on June 2, 2020.
+
 # A-Better-Twitter
 ## Just a CSS style for Twitter that removes some bullshit from the website.
 
